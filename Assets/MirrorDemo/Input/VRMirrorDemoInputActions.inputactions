@@ -1,0 +1,854 @@
+{
+    "name": "VRInputActions",
+    "maps": [
+        {
+            "name": "VRControls",
+            "id": "08b84a0c-3138-4d72-b1fe-50695797387d",
+            "actions": [
+                {
+                    "name": "LGripPress",
+                    "type": "Button",
+                    "id": "c802a724-e367-4dfa-a870-e558602c46af",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "LGripAxis",
+                    "type": "Value",
+                    "id": "cb2f574b-a7b6-4025-9328-e3a4970499c9",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "RGripPress",
+                    "type": "Button",
+                    "id": "c7edfb1c-242c-4c86-81c6-9f50b12af9ad",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "RGripAxis",
+                    "type": "Value",
+                    "id": "4d19c7b7-0892-4985-b7e6-56e49132ba09",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "XBtnTouch",
+                    "type": "Button",
+                    "id": "423914d2-c126-48ac-9cdc-f307c451d0fd",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "XBtnPress",
+                    "type": "Button",
+                    "id": "9fa828a7-dafd-4e1b-ad4b-07e3166a28e2",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "YBtnTouch",
+                    "type": "Button",
+                    "id": "2ecef673-4be4-4b91-b715-a4f8b15ed420",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "YBtnPress",
+                    "type": "Button",
+                    "id": "3354ab48-fa05-47d6-8782-3773f062c7d5",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "ABtnTouch",
+                    "type": "Button",
+                    "id": "4617e5db-c3c8-4f05-8e6d-738a281800d7",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "ABtnPress",
+                    "type": "Button",
+                    "id": "752ab107-44f4-4ff3-8aaa-d49ca0084236",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "BBtnTouch",
+                    "type": "Button",
+                    "id": "298391f2-e0fb-4a6c-8dae-eef93d947ff4",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "BBtnPress",
+                    "type": "Button",
+                    "id": "04f5b451-651f-4a97-8354-d645a9123ce7",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "LMenuPress",
+                    "type": "Button",
+                    "id": "e0a43ac9-8c8f-4150-a450-a11b78b9fd50",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "RMenuPress",
+                    "type": "Button",
+                    "id": "8d5fdf69-42d3-4ca7-bb69-c9d59d441912",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "LThumbTouch",
+                    "type": "Button",
+                    "id": "fda59bf6-21b5-42ee-973c-2542ba757a1a",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "LThumbPress",
+                    "type": "Button",
+                    "id": "d0e971ce-a624-4b84-b176-971e3018883d",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "RThumbTouch",
+                    "type": "Button",
+                    "id": "f0cc76b8-fa4c-4e21-841b-e6813bcab42b",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "RThumbPress",
+                    "type": "Button",
+                    "id": "0117a94f-b688-4f81-991d-f65e5daf5c10",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "LTriggerTouch",
+                    "type": "Button",
+                    "id": "1bfed063-a627-4ff1-9fde-5e8be505d0f0",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "LTriggerPress",
+                    "type": "Button",
+                    "id": "027a999f-ccdd-4db3-b843-e461121618d9",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "LTriggerAxis",
+                    "type": "Value",
+                    "id": "0defa899-d8e3-4eba-8277-f676df29bf47",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "RTriggerTouch",
+                    "type": "Button",
+                    "id": "715a3a61-910a-4c75-9eb7-d985e233256c",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "RTriggerPress",
+                    "type": "Button",
+                    "id": "8d8fcbb5-008b-4a23-b5b5-6d6559ed62f1",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "RTriggerAxis",
+                    "type": "Value",
+                    "id": "a6868a64-8011-478c-9d88-eed0295beee2",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "LAxis2d",
+                    "type": "Value",
+                    "id": "4a2c02bd-4182-47d3-9093-c0271d68dd33",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "RAxis2d",
+                    "type": "Value",
+                    "id": "02766bdd-72eb-43f0-bb75-80e6359e98b4",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "HMDPos",
+                    "type": "Value",
+                    "id": "697731ff-9881-49e6-ac9a-ad3e3e6d4093",
+                    "expectedControlType": "Vector3",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "HMDRot",
+                    "type": "Value",
+                    "id": "6cccb4d7-f00e-4cb2-9ea5-9c24178ea467",
+                    "expectedControlType": "Quaternion",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "LCtrlPos",
+                    "type": "Value",
+                    "id": "22661031-a839-46c4-a630-d81cfe09b8b6",
+                    "expectedControlType": "Vector3",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "RCtrlPos",
+                    "type": "Value",
+                    "id": "c5c03bd6-c27c-479f-8f5a-3e15602ddb44",
+                    "expectedControlType": "Vector3",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "LCtrlRot",
+                    "type": "Value",
+                    "id": "e34d859c-3b8c-4edf-abed-4a80c9f44579",
+                    "expectedControlType": "Quaternion",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "RCtrlRot",
+                    "type": "Value",
+                    "id": "7980b424-516b-4e19-8e82-09bcc3c4de2b",
+                    "expectedControlType": "Quaternion",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "HMDCenterEyePos",
+                    "type": "Value",
+                    "id": "d3f341f6-3c68-4647-9744-3d49b7ba60b8",
+                    "expectedControlType": "Vector3",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "HMDCenterEyeRot",
+                    "type": "Value",
+                    "id": "1856c341-39e7-4974-bfd7-7445c69d8bde",
+                    "expectedControlType": "Quaternion",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "HMDLEyePos",
+                    "type": "Value",
+                    "id": "b2215767-9018-47e2-9693-df50f09606c6",
+                    "expectedControlType": "Vector3",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "HMDREyePos",
+                    "type": "Value",
+                    "id": "6b584dc6-88f4-457b-89af-c7f6c9acbf8e",
+                    "expectedControlType": "Vector3",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "HMDLEyeRot",
+                    "type": "Value",
+                    "id": "2f03315c-bf0d-4e58-9293-70f9cd3298a7",
+                    "expectedControlType": "Quaternion",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "HMDREyeRot",
+                    "type": "Value",
+                    "id": "b7a2e08c-c3fa-41e5-a0d2-40a4b26e20bd",
+                    "expectedControlType": "Quaternion",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "LPointerPos",
+                    "type": "Value",
+                    "id": "12c7a203-233c-4005-a5a8-0213a69f3b15",
+                    "expectedControlType": "Vector3",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "LPointerRot",
+                    "type": "Value",
+                    "id": "da2efdcd-e8de-4db2-bcd1-4dd604a184d3",
+                    "expectedControlType": "Quaternion",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "RPointerPos",
+                    "type": "Value",
+                    "id": "239f37fe-4fc6-453c-bd02-6d1a24a4ccf0",
+                    "expectedControlType": "Vector3",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "RPointerRot",
+                    "type": "Value",
+                    "id": "187fdcae-45d1-47fa-af6c-a1ae51d653a7",
+                    "expectedControlType": "Quaternion",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "aa3d4e79-aed8-45cd-b282-7edb6fd6043b",
+                    "path": "<OculusTouchController>{LeftHand}/gripPressed",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LGripPress",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "0e705494-c952-42a3-82ff-9aa5cccb28b8",
+                    "path": "<OculusTouchController>/grip",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LGripAxis",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "4a43defa-3e90-4da3-86a9-db3e5cc6354f",
+                    "path": "<OculusTouchController>{LeftHand}/primaryTouched",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "XBtnTouch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "a141c4ff-f07b-4e6a-bb07-2912ede8d789",
+                    "path": "<OculusTouchController>{LeftHand}/primaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "XBtnPress",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "2802d5f4-512c-45b7-ae5f-c397dec45090",
+                    "path": "<OculusTouchController>{LeftHand}/secondaryTouched",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "YBtnTouch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "523f90e2-3c55-4acb-80ca-aa30e2fbc0d9",
+                    "path": "<OculusTouchController>{LeftHand}/secondaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "YBtnPress",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "810d7c98-fdca-4213-925f-a7a9cc19eaf3",
+                    "path": "<OculusTouchController>{LeftHand}/menu",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LMenuPress",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "24fcadbe-09f1-4949-91e9-500e29432802",
+                    "path": "<OculusTouchController>{RightHand}/triggerTouched",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RTriggerTouch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "bb8363b8-9a59-4600-9a26-79abec0290d2",
+                    "path": "<OculusTouchController>{RightHand}/trigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RTriggerAxis",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "79a7da0f-d10a-4c02-9768-eed557a6aee5",
+                    "path": "<OculusTouchController>{LeftHand}/thumbstickTouched",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LThumbTouch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "978df70d-678f-441e-8d0a-ea0e4989c685",
+                    "path": "<OculusTouchController>{LeftHand}/thumbstickClicked",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LThumbPress",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "0a26b238-5420-45a9-8445-414feec239c0",
+                    "path": "<OculusTouchController>{LeftHand}/triggerTouched",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LTriggerTouch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "3f53f5bf-cfb2-4d4e-b861-b90ee3163a74",
+                    "path": "<OculusTouchController>{LeftHand}/trigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LTriggerAxis",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b5a5d9e6-0ae1-40a1-8b38-2c6faf4f7408",
+                    "path": "<OculusTouchController>{LeftHand}/thumbstick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LAxis2d",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d440ad14-1a8d-40c6-9a47-ca6728434abe",
+                    "path": "<OculusTouchController>{RightHand}/thumbstick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RAxis2d",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "cb32a6e8-29bd-4c74-aed7-47a6bf7e9dae",
+                    "path": "<OculusTouchController>{RightHand}/gripPressed",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RGripPress",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "81a3426d-c636-41dc-8703-809c7bcb5562",
+                    "path": "<OculusTouchController>{RightHand}/grip",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RGripAxis",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ace8f3da-a642-431b-9461-4accfb0e1b61",
+                    "path": "<OculusTouchController>{RightHand}/primaryTouched",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ABtnTouch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d5609bb8-bf80-4c07-91d8-a385d4eddbb5",
+                    "path": "<OculusTouchController>{RightHand}/primaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ABtnPress",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "806fb7fe-821e-4408-a824-ce0df1b050b2",
+                    "path": "<OculusTouchController>{RightHand}/secondaryTouched",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "BBtnTouch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c8b24f0f-9229-4bca-9136-3b073f9c9698",
+                    "path": "<OculusTouchController>{RightHand}/secondaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "BBtnPress",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "9e54bf4e-aa2f-44ab-b7d7-a5d4906dae26",
+                    "path": "<OculusTouchController>{RightHand}/menu",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RMenuPress",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "49cf61eb-78c6-46a2-93ab-b5d9aca01734",
+                    "path": "<OculusTouchController>{RightHand}/thumbstickTouched",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RThumbTouch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "7a7d465f-46a4-4c5d-9832-84928f500862",
+                    "path": "<OculusTouchController>{RightHand}/thumbstickClicked",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RThumbPress",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "e3e8eac1-19b4-48a0-8dc8-7f8045e3df4f",
+                    "path": "<OculusTouchController>{LeftHand}/triggerPressed",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LTriggerPress",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b750c145-54cb-4524-bd51-5e679c822b08",
+                    "path": "<OculusTouchController>{RightHand}/triggerPressed",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RTriggerPress",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "bebb907f-f7ad-4023-b002-81852762aa98",
+                    "path": "<XRHMD>/devicePosition",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "HMDPos",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "6173b406-e0ed-4007-8be2-7df0f6157460",
+                    "path": "<OpenXRHmd>/deviceRotation",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "HMDRot",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "de0766b8-597d-48b8-b49c-72d349286139",
+                    "path": "<XRController>{LeftHand}/devicePosition",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LCtrlPos",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "60cebb13-f637-4ab7-a315-552b721583d3",
+                    "path": "<XRController>{RightHand}/devicePosition",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RCtrlPos",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "9162e9ed-c0c3-4cdd-8147-2dc164185fcc",
+                    "path": "<XRController>{LeftHand}/deviceRotation",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LCtrlRot",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "197aef5a-6b53-46b4-82e4-be6871274bf3",
+                    "path": "<XRController>{RightHand}/deviceRotation",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RCtrlRot",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "214ebee9-f126-46da-b1a9-2768f6bb2f7e",
+                    "path": "<XRHMD>/centerEyePosition",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "HMDCenterEyePos",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "5b14d588-56ea-4136-a150-fe8a8699e0a3",
+                    "path": "<XRHMD>/centerEyeRotation",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "HMDCenterEyeRot",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "9780bea8-c4d8-49d3-b346-2f491e2a7886",
+                    "path": "<XRHMD>/leftEyePosition",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "HMDLEyePos",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "e237da61-ce25-47d7-bb48-00d34fabb8b1",
+                    "path": "<XRHMD>/rightEyePosition",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "HMDREyePos",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c0cabdf9-5f61-4ef0-bac3-5690bdb60ac9",
+                    "path": "<XRHMD>/leftEyeRotation",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "HMDLEyeRot",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "0837f57c-1a0e-4f6d-a11b-a4c91762fcf0",
+                    "path": "<XRHMD>/rightEyeRotation",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "HMDREyeRot",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "7a7c7eff-4b89-46af-a2b2-ea4cfefe1056",
+                    "path": "<XRController>{LeftHand}/pointerPosition",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LPointerPos",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "1943b376-a6d6-4776-8fc3-17a16c63b0c7",
+                    "path": "<XRController>{LeftHand}/pointerRotation",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LPointerRot",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "a7cbe19d-1d78-4afd-9f6e-e431da3f095a",
+                    "path": "<XRController>{RightHand}/pointerPosition",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RPointerPos",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "f45a62a8-02e8-4f20-980a-83cb6624249f",
+                    "path": "<XRController>{RightHand}/pointerRotation",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RPointerRot",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
