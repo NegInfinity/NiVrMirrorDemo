@@ -1,5 +1,8 @@
 This is unsupported and use at your own risk.
 
+You can see a demo here:  
+[![thumbnail](https://img.youtube.com/vi/QX_Klm8KoNU/0.jpg)](https://youtu.be/QX_Klm8KoNU)
+
 I've created this when I was looking for a VR mirror in unity. I haven't found one, and eventually made my own.
 This is tested on Virtual Desktop + Oculujs 1 and requires motion controllers with sticks to move in the demo scenes.
 The demo functions in Single Pass instanced mode, but requires two more passes to render the reflection.
